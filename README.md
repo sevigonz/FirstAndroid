@@ -6,6 +6,7 @@ correspondientes orientaciones. Contará con un fondo de pantalla de imagen .9.p
 se estirará en los diferentes tamaños de dispositivo sin perder las proporciones del elemento
 principal, el marcianito de android.
 
+
 INSTALACIÓN
 -----------
 
