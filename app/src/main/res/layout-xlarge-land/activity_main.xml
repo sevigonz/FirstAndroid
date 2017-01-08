@@ -31,9 +31,8 @@
         tools:text="@string/text_button"
         android:textAppearance="@style/TextAppearance.AppCompat.Button"
         android:textColor="@android:color/background_light"
-        style="@style/Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored"
         android:background="@drawable/my_button_bg"
-        android:layout_marginTop="11dp"
+        android:layout_marginTop="133dp"
         android:layout_below="@+id/textView"
-        android:layout_centerHorizontal="true" />
+        android:layout_alignStart="@+id/textView" />
 </RelativeLayout>
