@@ -1,7 +1,7 @@
 # FirstAndroid
 
-ISTALATION
-----------
+INSTALACIÓN
+-----------
 
 1. Abre una terminal y cambia al directorio dónde creas tus proyectos Android.
 2. Ejecuta el siguiente comando git para clonar el proyecto en tu directorio
