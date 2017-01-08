@@ -1,5 +1,11 @@
 # FirstAndroid
 
+App android que muestra una pantalla con un título de bienvenida y un botón "Entrar".
+La app contará con soporte para cuatro idiomas y diferentes resoluciones de dispositivos y sus
+correspondientes orientaciones. Contará con un fondo de pantalla de imagen .9.png la cual
+se estirará en los diferentes tamaños de dispositivo sin perder las proporciones del elemento
+principal, el marcianito de android.
+
 INSTALACIÓN
 -----------
 
