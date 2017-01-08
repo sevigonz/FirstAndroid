@@ -10,7 +10,7 @@
     android:paddingRight="@dimen/activity_horizontal_margin"
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="com.sevigonz.firstandroid.MainActivity"
-    android:background="@drawable/marcianito">
+    android:background="@drawable/marcianito_android">
 
     <TextView
         android:text="@string/title_app"
@@ -33,7 +33,7 @@
         android:textColor="@android:color/background_light"
         style="@style/Base.TextAppearance.AppCompat.Widget.Button.Borderless.Colored"
         android:background="@drawable/my_button_bg"
-        android:layout_marginTop="14dp"
+        android:layout_marginTop="8dp"
         android:layout_below="@+id/textView"
         android:layout_centerHorizontal="true" />
 </RelativeLayout>
